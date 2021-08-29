@@ -1,0 +1,2 @@
+# E-commerce
+We uploaded sales data set and applied some Exploration Data Analasis , visualed some plots to show Which Country makes the most transactions,Top 10 Customers how made the largest Revenu and Top 5 frequent Customers. Then we wanted to predict daily product sales,so we have extracted {𝑌𝑒𝑎𝑟, 𝑀𝑜𝑛𝑡ℎ, 𝑊𝑒𝑒𝑘, 𝑊𝑒𝑒𝑘𝐷𝑎𝑦, 𝐷𝑎𝑦, 𝐷𝑎𝑦𝑂𝑓𝑌𝑒𝑎𝑟,𝐷𝑎𝑡𝑒} features from 𝐼𝑛𝑣𝑜𝑖𝑐𝑒𝐷𝑎𝑡𝑒 feature ,Then we Aggregated Revenue &amp; Quantity across the grouped_features
